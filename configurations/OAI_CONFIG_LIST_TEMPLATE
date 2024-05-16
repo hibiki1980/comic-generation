@@ -1,0 +1,47 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "<your_api_key>"
+    },
+    {
+        "model": "gpt-4-vision-preview",
+        "api_key": "<your_api_key>"
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "<your_api_key>"
+    },
+    {
+        "model": "dalle",
+        "api_key": "<your_api_key>"
+    },
+    {
+        "model": "dall-e-2",
+        "api_key": "<your_api_key>"
+    },
+    {
+        "model": "dall-e-3",
+        "api_key": "<your_api_key>"
+    },
+    {
+        "model": "command-nightly",
+        "base_url": "http://127.0.0.1:4000/v1",
+        "api_key": "placeholder"
+    },
+    {
+        "model": "command-r",
+        "base_url": "http://127.0.0.1:4000/v1",
+        "api_key": "placeholder"
+    },
+    {
+        "model": "mistral-7B",
+        "base_url": "http://127.0.0.1:4000/v1",
+        "api_key": "placeholder"
+    },
+    {
+        "model": "monsterapi",
+        "base_url": "https://api.monsterapi.ai/v1",
+        "api_key": "<your_api_key>"
+    }
+]
+
